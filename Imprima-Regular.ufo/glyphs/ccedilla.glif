@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="1">
+  <advance width="446"/>
+  <unicode hex="00E7"/>
+  <outline>
+    <component  base="cedilla" xOffset="52"/>
+    <component  base="c"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-14" width="68" />
+      <hstem pos="446" width="68" />
+      <vstem pos="45" width="76" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
